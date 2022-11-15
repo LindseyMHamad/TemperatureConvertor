@@ -1,0 +1,65 @@
+﻿@page "/converttemp"
+
+
+
+
+@*@bind="tempInFarenheight" this binds it to the variable declared below*@
+<div class="InputTemp">
+    <input placeholder="Temp in Farenheight" @bind="tempInFarenheight" /> @*gives an input box for user input*@
+    <button @onclick="ConvertToCelsius">Submit</button> @*@onclick="ConvertToCelsius" - when button is clicked trigger method below*@
+</div>
+<p>
+    <h1>Temperature in Celsius</h1>
+    <h3>@TempinCelcius</h3>
+</p>
+
+
+<p>
+    <h1>Temperature in Kelvin</h1>
+    <h3>@TempinKelvin</h3>
+</p>
+
+<style>
+h1 {
+        color: blueviolet;
+        font-style: italic;
+        text-shadow: 2px 2px 2px gray;
+    }
+
+h3 {
+        text-align: center;
+    }
+
+p {
+        border-style: double;
+        padding : 10px;
+        margin : 20px;
+}
+
+    .InputTemp{
+            margin : 20px;
+    }
+
+   
+</style>
+
+@code {
+
+    private double? tempInFarenheight;
+    private double? TempinCelcius = 0;
+    private double? TempinKelvin = 0;
+
+
+    private void ConvertToCelsius()
+    {
+        // Todo: Add the todo
+        var tempInCelsius = (tempInFarenheight - 32) * 0.5556;
+        TempinCelcius = tempInCelsius;
+        Console.WriteLine(tempInCelsius);
+
+        var tempInKelvin = (tempInFarenheight - 32) * 0.5556 + 273.15;
+        TempinKelvin = tempInKelvin;
+        Console.WriteLine(tempInKelvin);
+
+    }
+}

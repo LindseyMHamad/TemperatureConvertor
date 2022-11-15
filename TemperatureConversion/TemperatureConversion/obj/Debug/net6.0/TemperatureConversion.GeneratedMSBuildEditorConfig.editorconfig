@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TemperatureConversion
+build_property.RootNamespace = TemperatureConversion
+build_property.ProjectDir = C:\Users\Lhamad\Desktop\WPF\TemperatureConversion\TemperatureConversion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lhamad\Desktop\WPF\TemperatureConversion\TemperatureConversion
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Pages/ConvertTemp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydFRlbXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Pages/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7h09aswhdv
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6986qysg3c
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lhamad/Desktop/WPF/TemperatureConversion/TemperatureConversion/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
